@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Note app",
+  "version": "1.0.0",
+  "description": "My first react note app",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open"
+  },
+  "permissions": [
+    "scripting"
+  ],
+  "icons": {
+    "16": "favicon.ico",
+    "48": "logo192.png",
+    "128": "logo512.png"
+  }
+}
